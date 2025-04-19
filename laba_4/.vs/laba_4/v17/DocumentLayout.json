@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0410\u0438\u0421\u0414\\laba_4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4B2D9193-0E56-4D57-9478-5B618A992FCF}|laba_4.1\\laba_4.1.vcxproj|E:\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0410\u0438\u0421\u0414\\laba_4\\laba_4.1\\task-1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4B2D9193-0E56-4D57-9478-5B618A992FCF}|laba_4.1\\laba_4.1.vcxproj|solutionrelative:laba_4.1\\task-1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE00A8F6-EAE6-4692-8037-2095C70A1F7F}|laba_4.2\\laba_4.2.vcxproj|E:\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0410\u0438\u0421\u0414\\laba_4\\laba_4.2\\task-2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EE00A8F6-EAE6-4692-8037-2095C70A1F7F}|laba_4.2\\laba_4.2.vcxproj|solutionrelative:laba_4.2\\task-2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "task-2.cpp",
+              "DocumentMoniker": "E:\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0410\u0438\u0421\u0414\\laba_4\\laba_4.2\\task-2.cpp",
+              "RelativeDocumentMoniker": "laba_4.2\\task-2.cpp",
+              "ToolTip": "E:\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0410\u0438\u0421\u0414\\laba_4\\laba_4.2\\task-2.cpp",
+              "RelativeToolTip": "laba_4.2\\task-2.cpp",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACUAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-25T21:48:30.137Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "task-1.cpp",
+              "DocumentMoniker": "E:\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0410\u0438\u0421\u0414\\laba_4\\laba_4.1\\task-1.cpp",
+              "RelativeDocumentMoniker": "laba_4.1\\task-1.cpp",
+              "ToolTip": "E:\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0410\u0438\u0421\u0414\\laba_4\\laba_4.1\\task-1.cpp",
+              "RelativeToolTip": "laba_4.1\\task-1.cpp",
+              "ViewState": "AgIAACkAAAAAAAAAAAAwwCQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-25T20:09:33.874Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

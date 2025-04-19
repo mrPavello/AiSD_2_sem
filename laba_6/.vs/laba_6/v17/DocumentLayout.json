@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0410\u0438\u0421\u0414\\laba_6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D0DD8349-C292-4D76-B910-10AD633DFD14}|laba_6\\laba_6.vcxproj|E:\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0410\u0438\u0421\u0414\\laba_6\\laba_6\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D0DD8349-C292-4D76-B910-10AD633DFD14}|laba_6\\laba_6.vcxproj|solutionrelative:laba_6\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "E:\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0410\u0438\u0421\u0414\\laba_6\\laba_6\\main.cpp",
+              "RelativeDocumentMoniker": "laba_6\\main.cpp",
+              "ToolTip": "E:\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0410\u0438\u0421\u0414\\laba_6\\laba_6\\main.cpp",
+              "RelativeToolTip": "laba_6\\main.cpp",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-30T08:12:19.478Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
